@@ -28,7 +28,7 @@
             <li>💬 <b>Ask me about anything</b>  </li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Coding(💻), Traveling(🌍), Food(🍱), and Photography(📷).</li>
             <li>👨‍💻 <b>Hire me for Infrastructure Management and DevOps Engineering</b>: <a href="https://www.upwork.com/freelancers/hasnaintahir79?s=1110580753140797440">Link to my UpWork Infrastructure Management  Specialization</a>.</li>
-            <li>👨‍💻 <b>Hire me for Infromation-Security related jobs</b>: <a href="https://www.upwork.com/freelancers/hasnaintahir79?s=1017484851352698966">Link to my UpWork Frontend-End Development Specialization</a>.</li>
+            <li>👨‍💻 <b>Hire me for Infromation-Security or DevSecOps related jobs</b>: <a href="https://www.upwork.com/freelancers/hasnaintahir79?s=1017484851352698966">Link to my UpWork DevSecOps Specialization</a>.</li>
         </ul>
 
 <br><br><br>
